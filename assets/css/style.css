@@ -1,0 +1,156 @@
+body{
+  
+  background-color: #000000;
+  color: #FFFFFF;
+  top: 7px;
+  text-align: center;
+
+}
+
+header{
+  
+/* UI Properties */
+margin-top: 7px;
+font: normal normal medium 50px/59px Raleway;
+font-family: "Raleway", sans-serif;
+text-align: center;
+color: #FFFFFF;
+opacity: 1;
+}
+
+main{
+
+  margin: 0;
+  margin-top: 73px;
+  left: 0px;
+  width: 100%;
+  border: 1px solid black;
+
+  /* UI Properties */
+  background: transparent url('img/photo-1516008805996-d2abb468cc9a.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+
+}
+
+.rectangulo{
+  display: flex;
+  flex-wrap: wrap;
+/* UI Properties */
+  color: #FFFFFF;
+
+top: 800px;
+left: 0px;
+
+/* UI Properties */
+background: #000000 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.boxes{
+  width: 50%;
+  display: flex;
+  
+}
+
+.textoRectangulo{
+  margin: 10px;
+  margin-left: 150px;
+  margin-top: 76px;
+  margin-bottom: 75px;
+  padding: 30px;
+  text-align: left;
+  font: normal normal 300 16px/19px Raleway;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+
+  top: 876px;
+  left: 150px;
+  width: 475px;
+  height: 197px;
+}
+
+.img1{
+  margin: 10px;
+  margin-top: 76px;
+  margin-left: 106px;
+  padding: 20px;
+  
+  top: 845px;
+  left: 731px;
+  width: 399px;
+  height: 237px;
+}
+
+.carac{
+  padding: 20px;
+  margin: 0px;
+  height: 348px;
+  margin-top: 100px;
+  
+  font-family: "Raleway", sans-serif;
+  
+}
+
+.icon{
+  width: 57px;
+  height: 37px;
+}
+
+.flex{
+  
+  display: flex;
+  
+
+}
+
+.cajas{
+  width: 33%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  font: normal normal 300 24px/29px Raleway;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+.galeria{
+  display: flex;
+  padding-left: 150px;
+  flex-wrap: wrap;
+  padding-right: 150px;
+  margin: auto;
+  text-align: center;
+}
+
+.IguanaImg{
+  width: 316px;
+  height: 202px;
+}
+
+
+.IguanaCaja{
+  display: flex;
+  margin: auto;
+  margin-top: 75px;
+  padding: 20px;
+  text-align: center;
+
+}
+
+footer{
+  text-align: center;
+  height: 80px;
+  padding-top: 35px;
+  /* UI Properties */
+  font: normal normal 300 20dp/24dp Raleway;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 0dp;
+  align-items: center;
+  color: #FFFFFF;
+  opacity: 1;
+}
